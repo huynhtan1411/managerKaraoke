@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247193919470",
+    "firebase_url": "https://managekaraoke-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "managekaraoke",
+    "storage_bucket": "managekaraoke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247193919470:android:8e12704c2b38035e3438ff",
+        "android_client_info": {
+          "package_name": "com.hope.managekaraoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247193919470-qik5c09j8gr7s1j8eim41f64bktvt0fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgel0DYqav6BLnh6Ga_P_ok5VK1Q3BEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247193919470-qik5c09j8gr7s1j8eim41f64bktvt0fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ManageKaraoke</string>
+    <string name="quan_ly_phong_hat">Quan Ly Phong Hat</string>
+    <string name="quan_ly_nhan_vien">Quan Ly Nhan Vien</string>
+</resources>

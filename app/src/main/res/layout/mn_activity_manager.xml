@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.Manager.ManagerActivity"
+
+    android:orientation="vertical"
+    tools:ignore="ExtraText">
+
+    <Button
+        android:id="@+id/btnManageRoom"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="30dp"
+        android:text="QUẢN LÝ PHÒNG HÁT"
+        android:textSize="25sp" >
+    </Button>>
+
+    <Button
+        android:id="@+id/btnManageEmployee"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center"
+        android:text="QUẢN LÝ NHÂN VIÊN "
+        android:textSize="25sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnManageService"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center"
+        android:text="DỊCH VỤ"
+        android:textSize="25sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnStatistical"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center"
+        android:text="THỐNG KÊ"
+        android:textSize="25sp">
+    </Button>
+
+
+</LinearLayout>
