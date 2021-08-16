@@ -8,6 +8,12 @@ public class KaraokeRoom {
 
     public KaraokeRoom() {
     }
+    public KaraokeRoom(String nameRoom, long price, String status,String typeRoom) {
+        NameRoom = nameRoom;
+        this.price = price;
+        this.status = status;
+        this.TypeRoom = typeRoom;
+    }
 
     public void setNameRoom(String nameRoom) {
         this.NameRoom = nameRoom;

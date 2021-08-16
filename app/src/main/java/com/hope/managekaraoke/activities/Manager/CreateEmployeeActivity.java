@@ -40,8 +40,6 @@ public class CreateEmployeeActivity extends AppCompatActivity {
             btnConfirm = findViewById(R.id.btn_cre_confirm);
             btnBack = findViewById(R.id.btn_cre_back);
 
-
-
             btnConfirm.setOnClickListener(view -> {
                 btnConfirmClicked();
             });
